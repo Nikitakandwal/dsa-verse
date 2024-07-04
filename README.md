@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nikitakandwal/dsaverse/assets/98966392/52aa7654-87bd-41a7-9bd1-0f4439f5ce49" alt="logoImg" />
+  <img src="https://github.com/Nikitakandwal/dsaverse/assets/98966392/e30892a8-38dd-462d-93bc-55babb6ae6699" alt="logoImg" />
 </p>
 
 # DSA Verse
