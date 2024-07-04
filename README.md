@@ -97,29 +97,13 @@ The server-side configuration includes the following structure:
 3. Follow other users to see their updates in your timeline.
 4. Like or dislike posts to show your appreciation.
 
-### Screenshots
-
-1. Login Page
-
-
-   <img src="https://github.com/Nikitakandwal/dsaverse/assets/98966392/94a596ae-7149-40ba-829b-eab57b2764c3" width="300">
-
-2. Sign Up Page
-
-
-   <img src="https://github.com/Nikitakandwal/dsaverse/assets/98966392/9ddee851-a065-403b-ad77-22ca3da92a08" width="300">
-
-3. Home Page
-
-   
-   <img src="https://github.com/Nikitakandwal/dsaverse/assets/98966392/e704b162-f087-49a7-a33a-90c7b298a3fa" width="300">
-
 
 ### Demo Video
 
 For a detailed walkthrough of the application, please watch the Demo Video: 
 
-https://github.com/Nikitakandwal/dsaverse/assets/98966392/adb62419-9da2-486d-b0ff-469f2df180f2
+https://github.com/Nikitakandwal/dsaverse/assets/98966392/9f5bac59-2b4a-46cf-a7f7-5116e51594ae
+
 
 
 ## Contributing
