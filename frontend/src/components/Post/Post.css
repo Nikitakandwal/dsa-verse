@@ -1,0 +1,30 @@
+.Post {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: var(--cardColor);
+    border-radius: 1rem;
+    gap: 1rem;
+}
+
+.Post>img {
+    width: auto; /* Allow the width to adjust automatically */
+    max-width: 100%; /* Ensure the image doesn't exceed the container's width */
+    max-height: 400px; /* Set a maximum height to make the image shorter */
+    object-fit: contain; /* Maintain the aspect ratio and fit within the container */
+    border-radius: 0.5rem;
+    background-color: white; /* Add white background color */
+    padding: 1rem; /* Add padding to create white space around the image */
+}
+
+.postReact {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+}
+
+.heart {
+    height: 36px;
+    width: 36px;
+    margin-top: -4px;
+}
